@@ -1,6 +1,6 @@
 # geolocation-services-doc
 
-## Websites
+## Case studies
 
 [https://www.nextparkinglot.org](https://www.nextparkinglot.org)  
 [https://www.nextchargingstation.org](https://www.nextchargingstation.org)
