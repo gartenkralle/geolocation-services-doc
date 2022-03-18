@@ -25,6 +25,6 @@
 
 [https://www.nuget.org/profiles/GeolocationServices](https://www.nuget.org/profiles/GeolocationServices)  
 
-## Software as a service
+## Software as a Service
 
 [https://www.geolocationservices.org](https://www.geolocationservices.org) (under construction)
