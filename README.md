@@ -34,4 +34,4 @@
 
 ## Rapid API
 
-[https://rapidapi.com/organization/geolocationservices](https://rapidapi.com/organization/geolocationservices)
+[https://rapidapi.com/organization/GeolocationServices](https://rapidapi.com/organization/GeolocationServices)
