@@ -16,15 +16,19 @@
 
 ![Class diagram](_images/architecture-quad-tree.drawio.svg)
 
-## Case studies
+## Progressive Web Apps
 
 [https://www.nextparkinglot.org](https://www.nextparkinglot.org)  
 [https://www.nextchargingstation.org](https://www.nextchargingstation.org)
+
+## Software as a Service
+
+[https://www.geolocationservices.org](https://www.geolocationservices.org) (under construction)
 
 ## Nuget packages
 
 [https://www.nuget.org/profiles/GeolocationServices](https://www.nuget.org/profiles/GeolocationServices)  
 
-## Software as a Service
+## Rapid API
 
-[https://www.geolocationservices.org](https://www.geolocationservices.org) (under construction)
+[https://rapidapi.com/organization/geolocationservices](https://rapidapi.com/organization/geolocationservices)
