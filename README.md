@@ -16,6 +16,9 @@
 
 ![Class diagram](_images/architecture-quad-tree.drawio.svg)
 
+<br>
+<br>
+
 ## Progressive Web Apps
 
 [https://www.nextparkinglot.org](https://www.nextparkinglot.org)  
