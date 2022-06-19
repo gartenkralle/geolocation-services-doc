@@ -32,6 +32,10 @@
 
 [https://www.nuget.org/profiles/GeolocationServices](https://www.nuget.org/profiles/GeolocationServices)  
 
+## npm packages
+
+[https://www.npmjs.com/~geolocation-services](https://www.npmjs.com/~geolocation-services)
+
 ## Rapid API
 
 [https://rapidapi.com/organization/GeolocationServices](https://rapidapi.com/organization/GeolocationServices)
