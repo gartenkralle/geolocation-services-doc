@@ -26,13 +26,13 @@
 
 ## Software as a Service
 
-[https://www.geolocationservices.org](https://www.geolocationservices.org) (under construction)
+[https://www.geolocationservices.org](https://www.geolocationservices.org)
 
 ## Nuget packages
 
 [https://www.nuget.org/profiles/GeolocationServices](https://www.nuget.org/profiles/GeolocationServices)  
 
-## npm packages
+## Npm packages
 
 [https://www.npmjs.com/~geolocation-services](https://www.npmjs.com/~geolocation-services)
 
