@@ -22,7 +22,7 @@
 ## Progressive Web Apps
 
 [https://www.nextparkinglot.org](https://www.nextparkinglot.org)  
-[https://www.nextchargingstation.org](https://www.nextchargingstation.org)
+[https://www.nextchargingstation.org](https://www.nextchargingstation.org)  
 [https://www.nextpicnic.org](https://www.nextpicnic.org)
 
 ## Software as a Service
