@@ -25,6 +25,10 @@
 [https://www.nextchargingstation.org](https://www.nextchargingstation.org)  
 [https://www.nextpicnic.org](https://www.nextpicnic.org)
 
+## Windows Store
+
+[https://www.microsoft.com/store/productId/9N9CN0NJD073](https://www.microsoft.com/store/productId/9N9CN0NJD073)
+
 ## Software as a Service
 
 [https://www.geolocationservices.org](https://www.geolocationservices.org)
