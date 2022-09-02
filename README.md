@@ -27,7 +27,7 @@
 
 ## Windows Store
 
-[https://www.microsoft.com/store/productId/9N9CN0NJD073](https://www.microsoft.com/store/productId/9N9CN0NJD073)
+[https://apps.microsoft.com/store/search?hl=en-us&gl=us&publisher=Geolocation%20Services](https://apps.microsoft.com/store/search?hl=en-us&gl=us&publisher=Geolocation%20Services)
 
 ## Software as a Service
 
