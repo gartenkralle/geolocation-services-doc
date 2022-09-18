@@ -25,9 +25,13 @@
 [https://www.nextchargingstation.org](https://www.nextchargingstation.org)  
 [https://www.nextpicnic.org](https://www.nextpicnic.org)
 
+## Apple Store
+
+[https://apps.apple.com/app/next-picnic/id6443399146](https://apps.apple.com/app/next-picnic/id6443399146)
+
 ## Windows Store
 
-[https://apps.microsoft.com/store/search?hl=en-us&gl=us&publisher=Geolocation%20Services](https://apps.microsoft.com/store/search?hl=en-us&gl=us&publisher=Geolocation%20Services)
+[https://apps.microsoft.com/store/detail/next-picnic/9N9CN0NJD073](https://apps.microsoft.com/store/detail/next-picnic/9N9CN0NJD073)
 
 ## Software as a Service
 
