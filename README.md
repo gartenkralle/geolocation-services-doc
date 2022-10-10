@@ -25,6 +25,10 @@
 [https://www.nextchargingstation.org](https://www.nextchargingstation.org)  
 [https://www.nextpicnic.org](https://www.nextpicnic.org)
 
+## Play Store
+
+[https://play.google.com/store/apps/details?id=org.nextpicnic2.www.twa](https://play.google.com/store/apps/details?id=org.nextpicnic2.www.twa)
+
 ## Apple Store
 
 [https://apps.apple.com/app/next-picnic/id6443399146](https://apps.apple.com/app/next-picnic/id6443399146)
