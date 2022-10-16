@@ -3,12 +3,15 @@
 ## Design
 
 ### Component diagram
+<br>
 ![Class diagram](_images/architecture-component-diagram.drawio.svg)
 
 ### Data flow diagram
+<br>
 ![Class diagram](_images/architecture-data-flow.drawio.svg)
 
 ### Data format
+<br>
 ![Class diagram](_images/architecture-data-format.drawio.svg)
 
 <br>
