@@ -28,6 +28,20 @@
 <br>
 <br>
 
+###Grid sizes
+32 x 32
+64 x 64
+128 x128
+256 x 256
+512 x 512
+1024 x 1024
+2048 x 2048
+4096 x 4096
+8192 x 8192
+16384 x 16384
+32768 x 32768
+65536 x 65536
+
 ## Progressive Web Apps
 
 [https://www.nextparkinglot.org](https://www.nextparkinglot.org)  
