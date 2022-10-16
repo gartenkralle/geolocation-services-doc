@@ -3,7 +3,9 @@
 ## Design
 
 ### Component diagram
+
 <br>
+
 ![Class diagram](_images/architecture-component-diagram.drawio.svg)
 
 ### Data flow diagram
