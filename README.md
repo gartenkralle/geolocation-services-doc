@@ -28,7 +28,7 @@
 <br>
 <br>
 
-###Grid sizes
+### Grid sizes
 32 x 32
 64 x 64
 128 x128
