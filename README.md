@@ -25,6 +25,8 @@
 
 ![Class diagram](_images/architecture-quad-tree.drawio.svg)
 
+<br>
+
 ### Grid sizes
 32 x 32<br>
 64 x 64<br>
