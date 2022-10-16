@@ -15,8 +15,8 @@
 <br>
 
 <p align="center">
-![Class diagram](_images/architecture-quad-tree.drawio.svg)
-</>
+  <img src="_images/architecture-quad-tree.drawio.svg" />
+</p>
 
 <br>
 <br>
