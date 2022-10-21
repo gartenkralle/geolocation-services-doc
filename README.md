@@ -26,7 +26,6 @@
 ![Class diagram](_images/architecture-quad-tree.drawio.svg)
 
 <br>
-<br>
 
 ### Grid sizes
 32 x 32<br>
@@ -41,6 +40,8 @@
 16384 x 16384<br>
 32768 x 32768<br>
 65536 x 65536
+
+<br>
 
 ## Progressive Web Apps
 
