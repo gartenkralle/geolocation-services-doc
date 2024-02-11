@@ -46,6 +46,7 @@
 ## Progressive Web Apps
 
 [https://www.nextpicnic.org](https://www.nextpicnic.org)  
+[https://www.hofladenfinder.org](https://www.hofladenfinder.org)  
 [https://www.nextparkinglot.org](https://www.nextparkinglot.org)
 
 ## Play Store
