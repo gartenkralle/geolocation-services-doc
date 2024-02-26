@@ -43,6 +43,15 @@
 
 <br>
 
+### Dependencies
+- Dapper
+- MySqlConnector
+- IP2Location.IPGeolocation
+- Net.Codecrete.QrCodeGenerator
+- Newtonsoft.Json
+- Stripe
+- MimeKit
+
 ## Progressive Web Apps
 
 [https://www.nextpicnic.org](https://www.nextpicnic.org)  
