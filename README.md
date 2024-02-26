@@ -52,6 +52,8 @@
 - Stripe
 - MimeKit
 
+<br>
+
 ## Progressive Web Apps
 
 [https://www.nextpicnic.org](https://www.nextpicnic.org)  
