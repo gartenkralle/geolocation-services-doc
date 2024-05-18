@@ -70,7 +70,7 @@ https://play.google.com/store/apps/details?id=org.hofladenfinder.www.twa
 
 https://apps.apple.com/app/next-picnic/id6443399146
 
-https://apps.apple.com/us/app/hofladen-finder/id6502307062
+https://apps.apple.com/app/hofladen-finder/id6502307062
 
 ## Windows Store
 
