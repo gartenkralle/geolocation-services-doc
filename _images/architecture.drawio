@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-27T10:49:59.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="msw6gh5FK_Y0a_Jrtaf7" version="24.4.8" type="device" pages="5">
+<mxfile host="Electron" modified="2024-05-27T10:54:20.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="o-fBlEK1SBy0rRE7-e2C" version="24.4.8" type="device" pages="5">
   <diagram id="LLukMzBquvf9o7xKqFZT" name="component-diagram">
     <mxGraphModel dx="1227" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -630,39 +630,39 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kXQrf9N6mgfF6vhHhFE3" name="server-setup">
-    <mxGraphModel dx="1100" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--1" value="app-server (debian)" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="150" y="320" width="80" height="90" as="geometry" />
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--1" value="app-server (debian)" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="145" y="320" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--2" value="backup-server (debian)" style="shape=datastore;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--2" value="backup-server (debian)" style="shape=datastore;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="460" y="320" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--3" value="Windows Client&lt;div&gt;with&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;WSL&lt;/span&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.client;" vertex="1" parent="1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--3" value="Windows Client&lt;div&gt;with&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;WSL&lt;/span&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.client;" parent="1" vertex="1">
           <mxGeometry x="160" y="580" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RcrpsEH9dHl-2fgwdrn--3" target="RcrpsEH9dHl-2fgwdrn--1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="RcrpsEH9dHl-2fgwdrn--3" target="RcrpsEH9dHl-2fgwdrn--1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="530" as="sourcePoint" />
             <mxPoint x="450" y="480" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RcrpsEH9dHl-2fgwdrn--1" target="RcrpsEH9dHl-2fgwdrn--2">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RcrpsEH9dHl-2fgwdrn--1" target="RcrpsEH9dHl-2fgwdrn--2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="530" as="sourcePoint" />
             <mxPoint x="450" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.15;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RcrpsEH9dHl-2fgwdrn--3" target="RcrpsEH9dHl-2fgwdrn--2">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.15;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RcrpsEH9dHl-2fgwdrn--3" target="RcrpsEH9dHl-2fgwdrn--2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="530" as="sourcePoint" />
             <mxPoint x="470" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="RcrpsEH9dHl-2fgwdrn--3">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="RcrpsEH9dHl-2fgwdrn--3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="410" as="sourcePoint" />
             <mxPoint x="450" y="480" as="targetPoint" />
@@ -671,22 +671,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--8" value="deployment via one click publish profile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--8" value="deployment via one click publish profile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="460" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--9" value="backup app-server via nightly cronjob" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--9" value="backup app-server via nightly cronjob" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="320" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--10" value="restore WSL via one click publish profile" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--10" value="restore WSL via one click publish profile" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="620" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--11" value="backup WSL via one click publish profile" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--11" value="backup WSL via one click publish profile" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="510" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--12" value="download database via one click publish profile" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--12" value="download database via one click publish profile" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="540" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RcrpsEH9dHl-2fgwdrn--2" target="RcrpsEH9dHl-2fgwdrn--1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="RcrpsEH9dHl-2fgwdrn--2" target="RcrpsEH9dHl-2fgwdrn--1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="530" as="sourcePoint" />
             <mxPoint x="450" y="480" as="targetPoint" />
@@ -697,10 +697,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--14" value="restore app-server via one click publish profile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--14" value="restore app-server via one click publish profile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="250" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.785;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.3;exitDx=0;exitDy=0;" edge="1" parent="1" source="RcrpsEH9dHl-2fgwdrn--2" target="RcrpsEH9dHl-2fgwdrn--2">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.785;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.3;exitDx=0;exitDy=0;" parent="1" source="RcrpsEH9dHl-2fgwdrn--2" target="RcrpsEH9dHl-2fgwdrn--2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="553.48" y="346.64" as="sourcePoint" />
             <mxPoint x="531.52" y="319.9999999999999" as="targetPoint" />
@@ -712,10 +712,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--16" value="download current backup via one click publish profile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--16" value="download current backup via one click publish profile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="440" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--17" value="backup backup-server environment via one click publish profile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--17" value="backup backup-server environment via one click publish profile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="290" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
