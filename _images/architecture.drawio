@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-27T10:46:25.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="QQoF_VLo-vPjzhyR-S91" version="24.4.8" type="device" pages="5">
+<mxfile host="Electron" modified="2024-05-27T10:49:59.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="msw6gh5FK_Y0a_Jrtaf7" version="24.4.8" type="device" pages="5">
   <diagram id="LLukMzBquvf9o7xKqFZT" name="component-diagram">
     <mxGraphModel dx="1227" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -634,10 +634,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--1" value="app-server (debian)" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--1" value="app-server (debian)" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="150" y="320" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--2" value="backup-server (debian)" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--2" value="backup-server (debian)" style="shape=datastore;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="460" y="320" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RcrpsEH9dHl-2fgwdrn--3" value="Windows Client&lt;div&gt;with&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;WSL&lt;/span&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.client;" vertex="1" parent="1">
