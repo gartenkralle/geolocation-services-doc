@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-27T10:54:20.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="o-fBlEK1SBy0rRE7-e2C" version="24.4.8" type="device" pages="5">
+<mxfile host="Electron" modified="2024-05-27T10:59:39.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="AKQUAlfM_FXBFVWH-c14" version="24.4.8" type="device" pages="5">
   <diagram id="LLukMzBquvf9o7xKqFZT" name="component-diagram">
     <mxGraphModel dx="1227" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -671,7 +671,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcrpsEH9dHl-2fgwdrn--8" value="deployment via one click publish profile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RcrpsEH9dHl-2fgwdrn--8" value="deploy app&lt;br&gt;via one click publish profile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="460" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RcrpsEH9dHl-2fgwdrn--9" value="backup app-server via nightly cronjob" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

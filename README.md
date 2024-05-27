@@ -52,6 +52,20 @@
 
 <br>
 
+### Server Tools
+
+- dotnet
+- mariadb-server
+- rsync
+- htop
+- certbot
+- postfix
+- ssh
+- scp
+- tar
+
+<br>
+
 ### Dependencies
 
 - Dapper
