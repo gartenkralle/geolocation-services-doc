@@ -28,6 +28,7 @@
 <br>
 
 ### Grid sizes
+
 32 x 32<br>
 64 x 64<br>
 128 x128<br>
@@ -43,7 +44,16 @@
 
 <br>
 
+### Server Setup
+
+<br>
+
+![Class diagram](_images/architecture-server-setup.drawio.svg)
+
+<br>
+
 ### Dependencies
+
 - Dapper
 - MySqlConnector
 - IP2Location.IPGeolocation
@@ -82,7 +92,7 @@ https://apps.apple.com/app/hofladen-finder/id6502307062
 
 ## Nuget packages
 
-[https://www.nuget.org/profiles/GeolocationServices](https://www.nuget.org/profiles/GeolocationServices)  
+[https://www.nuget.org/profiles/GeolocationServices](https://www.nuget.org/profiles/GeolocationServices)
 
 ## Npm packages
 
