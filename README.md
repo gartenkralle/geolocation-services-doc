@@ -52,6 +52,18 @@
 
 <br>
 
+### Hardware
+
+- AMD EPYC™ 9634
+- 8 GB DDR5 RAM (ECC)
+- 4 dedicated cores
+- 256 GB NVMe SSD
+
+### Costs
+
+- Server (2x 10 EUR/month)
+- Domain (4x 2 EUR/month)
+
 ### Server Tools
 
 - dotnet
