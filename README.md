@@ -64,6 +64,8 @@
 - Server (2x 10 EUR/month)
 - Domain (4x 2 EUR/month)
 
+<br>
+
 ### Server Tools
 
 - dotnet
