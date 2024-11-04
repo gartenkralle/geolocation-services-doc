@@ -75,6 +75,7 @@
 
 ### Dependencies
 
+- Yarp.ReverseProxy
 - Dapper
 - MySqlConnector
 - IP2Location.IPGeolocation
