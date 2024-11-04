@@ -44,24 +44,16 @@
 
 <br>
 
-### Server Setup
-
-<br>
-
-![Class diagram](_images/architecture-server-setup.drawio.svg)
-
-<br>
-
 ### Hardware
 
-- AMD EPYC™ 9634
+- AMD EPYCâ„¢ 9634
 - 8 GB DDR5 RAM (ECC)
 - 4 dedicated cores
 - 256 GB NVMe SSD
 
 ### Costs
 
-- Server (2x 10 EUR/month)
+- Server (1x 10 EUR/month)
 - Domain (4x 2 EUR/month)
 
 <br>
