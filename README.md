@@ -27,6 +27,14 @@
 
 <br>
 
+### Front end
+
+<br>
+
+![Class diagram](_images/architecture-front-end.drawio.svg)
+
+<br>
+
 ### Grid sizes
 
 32 x 32<br>
