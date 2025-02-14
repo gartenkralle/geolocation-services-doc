@@ -27,11 +27,6 @@
 
 <br>
 
-### Front end technologies
-
-- web components
-- shoelace
-
 ### Front end design
 
 <br>
@@ -39,6 +34,11 @@
 ![Class diagram](_images/architecture-front-end.drawio.svg)
 
 <br>
+
+### Front end technologies
+
+- web components
+- shoelace
 
 ### Grid sizes
 
