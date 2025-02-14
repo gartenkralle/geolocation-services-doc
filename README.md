@@ -27,7 +27,12 @@
 
 <br>
 
-### Front end
+### Front end technologies
+
+- web components
+- shoelace
+
+### Front end design
 
 <br>
 
