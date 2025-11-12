@@ -38,7 +38,7 @@
 ### Front end technologies
 
 - web components
-- shoelace
+- web awesome
 
 <br>
 
@@ -75,7 +75,8 @@
 
 ### Server Tools
 
-- dotnet
+- debian 13
+- dotnet 10
 - mariadb-server
 - rsync
 - htop
