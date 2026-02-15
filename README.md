@@ -94,8 +94,6 @@
 - Yarp.ReverseProxy
 - Dapper
 - MySqlConnector
-- IP2Location.IPGeolocation
-- Net.Codecrete.QrCodeGenerator
 - Newtonsoft.Json
 - Stripe
 - MimeKit
@@ -120,22 +118,6 @@ https://apps.apple.com/app/next-picnic/id6443399146
 
 https://apps.apple.com/app/hofladen-finder/id6502307062
 
-## Windows Store
-
-[https://apps.microsoft.com/store/detail/next-picnic/9N9CN0NJD073](https://apps.microsoft.com/store/detail/next-picnic/9N9CN0NJD073)
-
 ## Software as a Service
 
 [https://www.geolocationservices.org](https://www.geolocationservices.org)
-
-## Nuget packages
-
-[https://www.nuget.org/profiles/GeolocationServices](https://www.nuget.org/profiles/GeolocationServices)
-
-## Npm packages
-
-[https://www.npmjs.com/~geolocation-services](https://www.npmjs.com/~geolocation-services)
-
-## Rapid API
-
-[https://rapidapi.com/organization/GeolocationServices](https://rapidapi.com/organization/GeolocationServices)
