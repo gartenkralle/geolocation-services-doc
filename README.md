@@ -37,8 +37,8 @@
 
 ### Front end technologies
 
-- javascript web components
-- tailwind
+- Javascript Web Components
+- Tailwind
 
 <br>
 
