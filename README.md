@@ -75,8 +75,8 @@
 
 ### Server Tools
 
-- debian 13
-- dotnet 10
+- Debian 13
+- .NET 10
 - mariadb-server
 - rsync
 - htop
