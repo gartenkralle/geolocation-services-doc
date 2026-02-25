@@ -37,8 +37,8 @@
 
 ### Front end technologies
 
-- web components
-- web awesome
+- javascript web components
+- tailwind
 
 <br>
 
