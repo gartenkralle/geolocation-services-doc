@@ -45,7 +45,12 @@
             <mxPoint x="420" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="22f1COl_HWQsPbSOXVJO-154" edge="1" parent="2" source="22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="34">
+        <mxCell id="22f1COl_HWQsPbSOXVJO-154" edge="1" parent="2" source="BsZK8Q3uBXyQl6FIIQSq-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="550" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BsZK8Q3uBXyQl6FIIQSq-151" edge="1" parent="2" source="22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BsZK8Q3uBXyQl6FIIQSq-148" value="REST API">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="22" parent="2" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" value="Front-End" vertex="1">
@@ -85,11 +90,11 @@
         </mxCell>
         <mxCell id="22f1COl_HWQsPbSOXVJO-156" edge="1" parent="2" source="34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="775" y="270" as="targetPoint" />
+            <mxPoint x="795" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="34" parent="2" style="swimlane;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontColor=#333333;" value="Libraries" vertex="1">
-          <mxGeometry height="337.5" width="170" x="690" y="381.24" as="geometry" />
+          <mxGeometry height="337.5" width="170" x="710" y="381.24" as="geometry" />
         </mxCell>
         <mxCell id="37" parent="34" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontColor=#333333;" value="AccountLibrary" vertex="1">
           <mxGeometry height="30" width="120" x="25" y="40" as="geometry" />
@@ -110,10 +115,21 @@
           <mxGeometry height="30" width="130" x="20" y="287.5" as="geometry" />
         </mxCell>
         <mxCell id="22f1COl_HWQsPbSOXVJO-149" parent="2" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontColor=#333333;" value="HelperLibrary" vertex="1">
-          <mxGeometry height="30" width="130" x="710" y="235" as="geometry" />
+          <mxGeometry height="30" width="130" x="730" y="235" as="geometry" />
         </mxCell>
         <mxCell id="22f1COl_HWQsPbSOXVJO-153" edge="1" parent="2" source="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="22f1COl_HWQsPbSOXVJO-149">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsZK8Q3uBXyQl6FIIQSq-148" parent="2" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;startSize=23;" value="Back-End" vertex="1">
+          <mxGeometry height="160" width="220" x="380" y="470" as="geometry">
+            <mxRectangle height="23" width="120" x="30" y="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BsZK8Q3uBXyQl6FIIQSq-149" parent="BsZK8Q3uBXyQl6FIIQSq-148" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" value="WebApp" vertex="1">
+          <mxGeometry height="30" width="100" x="57.5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BsZK8Q3uBXyQl6FIIQSq-150" parent="BsZK8Q3uBXyQl6FIIQSq-148" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" value="Admin" vertex="1">
+          <mxGeometry height="30" width="120" x="50" y="100" as="geometry" />
         </mxCell>
         <mxCell id="IvW9GYrCqFyuhNRknzc9-148" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Location&lt;br&gt;Data" vertex="1">
           <mxGeometry height="96.25" width="80" x="1130" y="511.87" as="geometry" />
