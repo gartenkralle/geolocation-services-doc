@@ -68,8 +68,9 @@
 
 ### Costs
 
-- Server (1x 10 EUR/month)
-- Domain (4x 2 EUR/month)
+- Server (10 EUR/month)
+- Domain (2 EUR/month)
+- Google Workspace (8 EUR/month)
 
 <br>
 
@@ -81,7 +82,6 @@
 - rsync
 - htop
 - certbot
-- postfix
 - ssh
 - scp
 - tar
