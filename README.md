@@ -74,6 +74,12 @@
 
 <br>
 
+### Performance
+
+2000 req/s
+
+<br>
+
 ### Server Tools
 
 - Debian 13
