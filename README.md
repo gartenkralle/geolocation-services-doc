@@ -72,8 +72,6 @@
 - Domain (2 EUR/month)
 - Google Workspace (8 EUR/month)
 
-<br>
-
 ### Performance
 
 2000 req/s
