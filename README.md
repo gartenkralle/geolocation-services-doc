@@ -98,9 +98,9 @@
 - Yarp.ReverseProxy
 - Dapper
 - MySqlConnector
-- Newtonsoft.Json
 - Stripe
-- MimeKit
+- MailKit
+- Google.Apis.Auth
 
 <br>
 
